@@ -21,3 +21,17 @@ C. Menghubungkan Kembali (Re-connect) ESP32 dengan Jaringan Wi-F
 
 ![image](https://user-images.githubusercontent.com/120068739/208883787-ba436228-0a6a-435c-86f7-f53f92983b81.png)
 
+
+
+D. Mengganti Hostname ESP32
+
+
+![image](https://user-images.githubusercontent.com/120068739/208897583-47c4169a-bbe7-4728-8e31-5443f6caff64.png)
+
+
+
+E. Mengirim Data Sensor ke Database
+
+
+
+![image](https://user-images.githubusercontent.com/120068739/208897908-6c2d34ef-17f1-4bb3-9e8f-ace9fefb08d8.png)
