@@ -22,6 +22,9 @@ C. Menghubungkan Kembali (Re-connect) ESP32 dengan Jaringan Wi-F
 ![image](https://user-images.githubusercontent.com/120068739/208883787-ba436228-0a6a-435c-86f7-f53f92983b81.png)
 
 
+Pada percobaan ketiga ini kita mencoba untuk melakukan pengecekan apabila koneksi Wi-Fi dimatikan. Pada pemrograman tertulis “// if WiFi is down, try reconnecting every CHECK_WIFI_TIME seconds if ((WiFi.status() != WL_CONNECTED) && (currentMillis - previousMillis >=interval)) { Serial.print(millis()); Serial.println("Reconnecting to WiFi..."); “  yang mana keika Wi-Fi down maka program akan mencoba untuk mencari kembali koneksi Wi-Fi dan akan bertuliskan ("Reconnecting to WiFi..." seperti yang ditunjukkan pada output di samping
+
+
 
 D. Mengganti Hostname ESP32
 
